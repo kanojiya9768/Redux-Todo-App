@@ -4,7 +4,7 @@ A Todo App Created Using Redux Tookit With CRUD Operation
 
 Live Link : https://redux-tookit-todo-app.netlify.app/
 
-Kindly Open in Laptops and Pc's as it is not mobile responsive i have just worked on App Logic not on Styling.
+Kindly Open in Laptops and Pc's as it is not mobile responsive i have just worked on App Logics and not on Styling of the app.
 
 Used Technologies 
 
