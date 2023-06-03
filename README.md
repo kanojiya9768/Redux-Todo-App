@@ -1,6 +1,6 @@
 # Redux-Todo-App
 
-A Todo App Created Using Redux Tookit With CRUD Operation
+A Todo App Created Using Redux Toolkit With CRUD Operation
 
 Live Link : https://redux-tookit-todo-app.netlify.app/
 
